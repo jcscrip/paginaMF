@@ -1,0 +1,169 @@
+body {
+    background:#bea87f;
+}
+h1 {
+    color: rgb(121, 93, 34);
+}
+.logo2{
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+}
+#premisa{
+    background-color: rgb(236, 198, 155);
+    color:rgb(114, 88, 31);
+    width: 100%;
+    text-align: center;
+    border-radius: 30%;
+}
+#titulo{
+    background-color: rgb(236, 198, 155);
+    margin: auto;
+    font-size: 100%;
+    text-align: center;
+    border-radius: 30%;
+}
+h2 {
+    color: rgb(114, 88, 31);
+    text-align: center;
+}
+ul {
+    background: rgb(236, 198, 155) ;
+    width: 100%;
+    margin-left: 10px;
+    text-align: center;
+}
+#estetica{
+    text-align: center; 
+}
+.imaguno{
+    width: 30% ;
+    height: 30%;
+    border-radius: 100%;
+}
+#elementos{
+    text-align: center;
+}
+#parrafouno{
+    text-align: center;
+    background:rgb(236, 198, 155);
+    color:rgb(114, 88, 31);
+    border-radius: 5%;
+}
+.imgrecup{
+    width: 30% ;
+    height: 30%;
+    border-radius: 100%;
+}
+.imagtres{
+    width: 300px;
+    height: 200px;
+}
+.imagcuatro{
+    width: 200px;
+    height: 200px;
+}
+.imagcinco{
+    width: 200px;
+    height: 200px;
+}
+.imagseis{
+    width: 200px;
+    height: 200px;
+}
+.imagsiete{
+    width: 200px;
+    height: 200px;
+}
+.imagocho{
+    width: 200px;
+    height: 200px;
+}
+h3{
+    color: rgb(114, 88, 31);
+}
+p{
+    color: #72581f
+}
+h4{
+    color: rgb(114, 88, 31);
+}
+li{
+    color: rgb(114, 88, 31);
+}
+#productos{
+   text-align: center;
+   display: flex;
+   background: 100%;
+}
+.xeomin1{
+    width: 200px;
+    height: 200px;
+}
+.t1, .t2, .t3, .t4, .t5{
+    width: 260px;
+    height: 250px;
+}
+form{
+    width: 80%;
+    border: 1px solid #d35731;
+    margin: 20px;
+    padding: 20px;
+}
+label{
+    font-size: 12px;
+    display: block;
+    width: 100%;
+}
+input, textarea{
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #d35731;
+}
+input:focus, textarea:focus{
+    border: 2px solid #72581f;
+}
+textarea{
+    resize: vertical;
+    max-height: 40%;
+    min-height: 30%;
+}
+input[type="submit"]{
+    margin-bottom: 0%;
+    background: #d35731;
+    color: #72581f;
+    border: none;
+}
+input[type="submit"]:hover{
+    background: #2e1f03;
+    cursor: pointer;
+}
+.imgformulario{
+    width: 30px;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+}
+.conteiner, .imagenconteiner{
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+.conteiner, #formulario{
+    width: 100%;
+    border: 0px solid #d35731;
+    margin: 30px;
+    padding: 30px;
+}
+#instagram[type="submit"]:hover{
+    background: #2e1f03;
+    cursor: pointer;
+    }
+#formulario1, label{
+        font-size: 12px;
+        display: block;
+        width: 100%;
+}
